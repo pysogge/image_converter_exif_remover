@@ -8,8 +8,8 @@ Unix/Linux Terminal
 Python 3.x
 
 ## Setup
-git clone
-cd 
+git clone https://github.com/pysogge/image_converter_exif_remover.git
+cd ./image_converter_exif_remover
 sh setup_venv.sh
 
 ## Usage (once setup is complete - see above)
