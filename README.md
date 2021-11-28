@@ -1,7 +1,7 @@
 # Image Converter and Metadata / EXIF Stripper
 This is a simple image converter and metadata / EXIF stripper for use in Unix/Linux command line.
 
-Drop images into the "input" folder and hit "sh start_and_run.sh" and it will convert them to JPG, strip the metadata and move them to the "output" folder.  (It will also copy the originals to the "originals" folder, and will remove them from the input folder.)
+Drop images into the "input" folder and hit "sh start_and_run.sh" and it will convert them to JPG, strip the metadata and move them to the "output" folder in a time-stamped sub-folder.  (It will also copy the originals to the "originals" folder, and will remove them from the input folder.)
 
 ## Prerequisites
 Unix/Linux Terminal
