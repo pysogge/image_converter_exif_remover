@@ -1,0 +1,5 @@
+py3venv/
+input/*
+output/*
+originals/*
+.DS_Store
