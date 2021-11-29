@@ -16,7 +16,8 @@ sh setup_venv.sh
 1. Manually place your files into the input folder (do not use subfolders)
 2. sh start_and_run.sh
 3. Watch the progress bar
-4. done.
+4. Collect your files in the timestamped output folder
+5. done.
 
 ### Credits
 Progress bar function from: https://stackoverflow.com/questions/3173320/text-progress-bar-in-the-console
